@@ -5,3 +5,5 @@ game còn lag
 
 ấn "mũi tên lên "để nhảy
 game có chức năng tính thời gian, chơi lại khi chết mà thoát game
+
+link youtube demo :https://www.youtube.com/watch?v=KpR46qISdeg
